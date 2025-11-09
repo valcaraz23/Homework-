@@ -1,0 +1,37 @@
+python3 next_clue.py 7 3 10
+cd 19773
+python3 next_clue 7 4 geneshark
+cd 51751
+python3 next_clue.py 7 4 next_clue
+cd 47136
+python3 next_clue.py 7 5 clue
+cd clues
+cd 42231
+pyhotn3 next_clue.py 7 6 clue
+cd clues
+cd 04292
+ls
+cd..
+pyhton3 next_clue.py 7 7 clue
+cd clues
+cd 51152
+ls
+cd..
+python3 next_clue.py 7 8 clue
+cd clues
+cd 89101
+ls
+cd..
+python3 next_clue.py 7 9 clue
+cd clues
+cd 102401
+cd 36904
+ls
+cd..
+python3 next_clue.py 7 10 clue
+cd clues
+cd 92817
+
+cd clues
+cd 55698
+
