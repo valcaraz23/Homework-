@@ -16,3 +16,6 @@ python3 next_clue.py 7 10 tactfully
 
 python3 next_clue.py 7 11 "-k 5 -rn"
 
+clues$ grep -L "Nothing to see here." */*
+
+cd clues/ 07603
